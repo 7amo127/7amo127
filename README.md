@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Ahmed
 
-🔐 **Cyber Security Graduate | Blue Team | Malware Analysis Enthusiast**  
+🔐 **Cyber Security Graduate | Blue Team | Malware Analysis**  
 🎓 Computer Science & Data Science – Cyber Security Specialization  
 📍 Egypt  
 
@@ -8,48 +8,69 @@
 
 ## 🧑‍💻 About Me
 
-I am a Cyber Security graduate with a strong foundation in **network security, operating systems, malware analysis, and encryption**.  
-I have hands-on experience with defensive security concepts, vulnerability assessment, and security monitoring tools.
+I am a Cyber Security graduate with strong knowledge across **multiple programming and scripting languages**, operating systems, networking, and defensive security concepts.
 
-I am passionate about:
-- Threat detection and analysis
-- Malware behavior and reverse engineering basics
-- Blue Team operations and incident response
-- Continuous learning in cybersecurity and networking
+My focus is on:
+- Blue Team & SOC operations  
+- Malware analysis and threat detection  
+- Security monitoring and incident response  
+- Using programming and scripting to support security analysis, automation, and research
 
 Currently preparing for **CEH** and **CCNA** certifications.
 
 ---
 
-## 🛡️ Technical Skills
+## 🛡️ Cyber Security Skills
 
-### 🔐 Cyber Security
 - Malware Analysis (Static & Dynamic)
-- Vulnerability Assessment
-- Threat Detection & Incident Response (Basics)
+- Vulnerability Assessment & Threat Detection
 - Log Analysis & SIEM Concepts
+- Incident Response (Foundations)
 - Encryption & Cryptography Fundamentals
+- Network Security & Traffic Analysis
 
-### 🌐 Networking
+---
+
+## 🌐 Networking Knowledge
+
 - TCP/IP, OSI Model
 - Ports, Protocols, Firewalls
-- Network Scanning & Traffic Analysis
-- CCNA-level Networking Knowledge
+- IDS/IPS Concepts
+- Network Scanning & Analysis
+- CCNA-level Networking
 
-### 💻 Operating Systems
+---
+
+## 💻 Operating Systems
+
 - Linux (Kali Linux, Ubuntu)
 - Windows (Processes, Logs, Security Internals)
 
-### 🛠️ Tools & Technologies
+---
+
+## 🧠 Programming & Scripting Languages
+
+I use programming and scripting languages as **tools for security, analysis, and automation**, not just development.
+
+- **Python** – Security scripts, automation, malware analysis  
+- **Bash** – Linux automation & security tasks  
+- **C++** – Low-level concepts, memory & malware behavior  
+- **Java** – Application logic & security understanding  
+- **PHP** – Web security awareness  
+- **JavaScript** – Client-side security concepts  
+- **HTML & CSS** – Web structure and attack surface understanding  
+- **R** – Data analysis & security research
+
+---
+
+## 🛠️ Security Tools & Technologies
+
 - Nmap
 - Wireshark
 - Metasploit (Basic)
-- YARA (Rule Writing – Basic)
-- Virtualization & Labs (VMware)
-
-### 🧠 Programming & Scripting
-- Python (Security Automation Basics)
-- Bash (Basic)
+- YARA (Rule Writing)
+- VMware (Labs & Virtualization)
+- SIEM Concepts (Monitoring & Alerts)
 
 ---
 
@@ -67,31 +88,31 @@ Grade: **Very Good**
 **Cyber Security Training – 120 Hours**  
 *July 2024 – August 2024*
 
-- Computer Network Fundamentals  
-- Advanced Networking  
-- Cyber Security Essentials  
-- Ethical Hacking  
-- Palo Alto Essentials (PCCET)  
-- FortiGate NSE 4  
-- Python Programming (MaharaTech)  
-- VMware Cloud Foundation  
+- Computer Network Fundamentals
+- Advanced Networking
+- Cyber Security Essentials
+- Ethical Hacking
+- Palo Alto Essentials (PCCET)
+- FortiGate NSE 4
+- Python Programming (MaharaTech)
+- VMware Cloud Foundation
 
 ---
 
-## 📂 Projects & Practice
+## 📂 Projects & Practical Experience
 
 🔍 **Malware Analysis**
-- Analyzed malicious executables using static and dynamic techniques
-- Studied malware behavior, persistence mechanisms, and system impact
+- Static and dynamic analysis of malicious executables
+- Understanding malware behavior and persistence mechanisms
 
-🛡 **System & Network Security**
-- Performed network scanning and traffic analysis
-- Practiced vulnerability discovery using Linux-based security tools
+🛡 **Security & Networking Labs**
+- Network scanning and traffic analysis
+- Vulnerability identification using Linux security tools
 
-📜 **YARA Rules & Detection**
-- Created basic YARA rules for identifying malicious patterns
+📜 **Detection & Rules**
+- Writing YARA rules for malware detection
 
-*(More projects will be added continuously as I learn and grow)*
+*(Repositories will be updated regularly with new labs and research)*
 
 ---
 
@@ -102,12 +123,12 @@ Grade: **Very Good**
 
 ---
 
-## 🚀 Goals
+## 🎯 Career Goals
 
-- Build strong expertise in Blue Team & SOC operations
+- Work in SOC / Blue Team environments
 - Advance in malware analysis and threat hunting
-- Contribute to open-source security projects
-- Grow into a professional Cyber Security Engineer
+- Strengthen defensive security and detection capabilities
+- Contribute to cybersecurity research and open-source projects
 
 ---
 
@@ -115,4 +136,4 @@ Grade: **Very Good**
 
 - GitHub: [https://github.com/7amo127](https://github.com/7amo127)
 
-⭐ Feel free to explore my repositories and follow my cybersecurity journey!
+⭐ Follow my repositories to see my cybersecurity journey and hands-on work.
